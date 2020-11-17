@@ -1,15 +1,11 @@
 from collections import Counter
 class Solution(object):
     def longestPalindrome(self, s):
-        """
-        :type s: str
-        :rtype: int
-        """
-        counter = Counter(s)
+        c = Counter(s)
         sumNum = 0
         ood = 0
-        for i in counter:
-            number = counter[i]
+        for i in c:
+            number = c[i]
             if number % 2 == 0:
                 sumNum += number
             else:
