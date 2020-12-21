@@ -2,7 +2,7 @@
 
 |Week|주제|문제|링크|
 |--|--|--|--|
-|1wk|Array, 점근적 표기, 시간복잡도, 공간복잡도|376,1031|https://leetcode.com/explore/learn/card/array-and-string/|
+|1wk|Array, 점근적 표기, 시간/공간 복잡도|376,1031|https://leetcode.com/explore/learn/card/array-and-string/|
 |2wk|Linked List |2,4,138,160,973|https://leetcode.com/explore/learn/card/linked-list/|
 |3wk|스택, 큐 |42,200,232,394,1249|https://leetcode.com/explore/learn/card/queue-stack/|
 |4wk|Tree |128,226,407,547,692|https://leetcode.com/tag/tree/|
